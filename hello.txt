@@ -1,0 +1,14 @@
+ hello Git
+
+ commands used in this project
+
+ cd desktop
+ mkdir plpbasicgitassignment
+ cd plpbasicgitassignment
+ git init
+ touch hello.txt
+ code .
+ git remote add origin 
+ git add
+ git commit -m
+ git push -u origin main
